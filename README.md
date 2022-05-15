@@ -1,6 +1,6 @@
 # No_Login
 
-#Command 👇
+# Command 👇
 
 pkg update
 
