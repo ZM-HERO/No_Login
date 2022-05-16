@@ -8,16 +8,16 @@ pkg upgrade
 
 pkg install git
 
-pkg install python2
+pkg install python
 
-pip2 install mechanize
+pip install mechanize
 
-pip2 install requests
+pip install requests
 
 git clone https://github.com/ZM-HERO/No_Login
 
 cd No_Login
 
-python2 No_Login.py
+python run.py
 
 # PASS : ZM
